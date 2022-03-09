@@ -1,11 +1,6 @@
-## My Project
+## Automate pre-workload ingestion activities for AWS Managed Services on Windows
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+For the complete documentation, please refer to https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/automate-pre-workload-ingestion-activities-for-aws-managed-services-on-windows.html.
 
 ## Security
 
